@@ -1,6 +1,6 @@
 {
   "files": {
-    "guid0001": {
+    "guid00001": {
       "content": "'usecase \"UC001: Create project\" as UC001
 'usecase \"UC002: Send mail to system\" as UC002
 'usecase \"UC003: Reply mail to system\" as UC003
